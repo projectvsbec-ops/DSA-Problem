@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-13T12:27:20.115Z",
+  "lastUpdated": "2026-07-13T12:30:23.708Z",
   "submissions": {
     "reverse-integer": {
       "questionId": "7",
@@ -34,6 +34,23 @@
           "runtime": "N/A",
           "memory": "N/A",
           "githubPath": "Array/Two Sum/"
+        }
+      }
+    },
+    "palindrome-number": {
+      "questionId": "9",
+      "title": "Palindrome Number",
+      "titleSlug": "palindrome-number",
+      "difficulty": "Easy",
+      "tags": [
+        "Math"
+      ],
+      "solutions": {
+        "python3": {
+          "syncedAt": 1783945823708,
+          "runtime": "N/A",
+          "memory": "N/A",
+          "githubPath": "Math/Palindrome Number/"
         }
       }
     }
