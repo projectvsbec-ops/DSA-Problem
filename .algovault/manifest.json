@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-13T13:03:25.352Z",
+  "lastUpdated": "2026-07-13T13:19:50.967Z",
   "submissions": {
     "reverse-integer": {
       "questionId": "7",
@@ -47,9 +47,9 @@
       ],
       "solutions": {
         "python3": {
-          "syncedAt": 1783947805352,
-          "runtime": "N/A",
-          "memory": "N/A",
+          "syncedAt": 1783948790967,
+          "runtime": "11 ms",
+          "memory": "19.2 MB",
           "githubPath": "Math/Palindrome Number/"
         }
       }
